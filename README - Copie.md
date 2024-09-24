@@ -2,4 +2,3 @@
 Tutoriel 1 du cours SEG2505.
 Bienvenue dans notre projet!
 test ppp
-this is a test in the branch "Ma Branche"
